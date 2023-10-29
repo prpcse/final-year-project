@@ -1,1 +1,1 @@
-# final-year-project
+Chrome extension for PhishDetector
